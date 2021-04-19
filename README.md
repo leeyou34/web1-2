@@ -1,3 +1,4 @@
 # web2
 leeyou's test web2<br><br>
-thank you for checking my website. =)
+Thank you for visiting. =) <br><br>
+If you like to check my website. click this <a href="https://leeyou31.github.io/web2/practice1.html>link</a>
