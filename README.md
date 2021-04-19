@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-<head>
-  <meta charset="utf-8">
-  <title>Dev Thomas Lee</title>
-</head>
+
 <body>
 <h1><a href="practice1.html">Dev Thomas Lee</a></h1>
 <ol>
