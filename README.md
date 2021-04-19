@@ -1,4 +1,3 @@
-
 <body>
 <h1><a href="practice1.html">Dev Thomas Lee</a></h1>
 <ol>
